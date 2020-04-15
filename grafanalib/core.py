@@ -1248,6 +1248,7 @@ class RowGrid(object):
             'title': self.title,
             'type': self.panel_type,
             'gridPos': self.gridPos,
+            'repeat': self.repeat
         }
 
 
